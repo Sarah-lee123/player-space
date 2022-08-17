@@ -1,6 +1,4 @@
-(To join [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/) see [Getting Started](Getting-Started.md).)
-
-# Name (@github_id)
+# Name (@Sarah-lee123)
 
 optional tag-line
 

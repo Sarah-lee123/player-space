@@ -2,7 +2,7 @@
 
 No body does it like Sarah Lee
 
-<img align="right" width="250" src="avatar.png">
+<img align="right" width="500" src="Avatar_2022.jpeg">
 
 ## Bio
 
@@ -12,6 +12,7 @@ Sarah Schuette is Co-founder, CIO, and Nationally Certified Soil Scientist at DB
 * [github](https://github.com/Sarah-lee123)
 * [linkedin](https://www.linkedin.com/in/sarah-schuette)
 * [instagram](https://www.instagram.com/dirtybusinesssoil/)
+
  
 ## Roles
 * [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/)

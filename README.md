@@ -1,4 +1,4 @@
-# Name (@Sarah-lee123)
+# Sarah Schuette (@Sarah-lee123)
 
 No body does it like Sarah Lee
 
@@ -12,7 +12,8 @@ Sarah is Co-founder, CIO, and Nationally Certified Soil Scientist at DBS Analyti
 * [github](https://github.com/Sarah-lee123)
 * [linkedin](https://www.linkedin.com/in/sarah-schuette)
 * [instagram](https://www.instagram.com/dirtybusinesssoil/)
-
+* [website](https://dbsanalytics.com)
+* [company video](https://youtu.be/vmocvLP2CCg)
  
 ## Roles
 * [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/)
